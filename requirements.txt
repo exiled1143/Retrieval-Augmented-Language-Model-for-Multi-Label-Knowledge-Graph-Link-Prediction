@@ -1,0 +1,5 @@
+apex        == 0.9.10.dev0
+torch       == 1.9.0+cu102
+tqdm        == 4.53.0
+transformers== 4.18.0
+wandb       == 0.13.10
