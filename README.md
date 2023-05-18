@@ -34,6 +34,7 @@ pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable
 unzip dataset/FB15k-237/fb15k237.zip and dataset/WN18RR/wn18rr.zip
 
 Our proposed description dataset for FB15k237 is at dataset/FB15k-237/entity2text.csv
+
 The license of the proposed dataset is in CC-BY-2.5.txt
 
 ## Training
