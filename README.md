@@ -1,8 +1,7 @@
 
 # Retrieval-Augmented-Language-Model-for-Multi-Label-Knowledge-Graph-Link-Prediction
 
-This repository is the official implementation of **KGXML-BERT: BERT-based framework for Extreme
-Multi-Label Knowledge Graph Link Prediction**
+This repository is the official implementation of **Retrieval-Augmented-Language-Model-for-Multi-Label-Knowledge-Graph-Link-Prediction**
 
 ## Requirements
 
