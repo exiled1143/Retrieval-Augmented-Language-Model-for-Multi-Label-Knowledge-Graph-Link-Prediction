@@ -1,5 +1,5 @@
 
-# KGXML-BERT: BERT-based framework for ExtremeMulti-Label Knowledge Graph Link Prediction
+# Retrieval-Augmented-Language-Model-for-Multi-Label-Knowledge-Graph-Link-Prediction
 
 This repository is the official implementation of **KGXML-BERT: BERT-based framework for Extreme
 Multi-Label Knowledge Graph Link Prediction**
@@ -101,11 +101,11 @@ Our model achieves the following performance on :
 
 | Model name         | Precision@1  | Precision@3 | Precision@5 |
 | ------------------ |---------------- | -------------- | -------------- |
-| KGXML-BERT   |     35.43%         |      26.24%       | 23.27% |
+| Our Model   |     35.43%         |      26.24%       | 23.27% |
 
 ### **Precision@K on FB15K-237**
 
 | Model name         | Precision@1  | Precision@3 | Precision@5 |
 | ------------------ |---------------- | -------------- | -------------- |
-| KGXML-BERT  |     32.25%         |      22.7%       | 19.79% |
+| Our Model  |     32.25%         |      22.7%       | 19.79% |
 
